@@ -1,0 +1,9 @@
+# Site settings
+title: BeF's Yate Cookbook
+baseurl: "/yate-cookbook" # the subpath of your site, e.g. /blog/
+projecturl: "https://bef.github.com/yate-cookbook"
+github_project: bef/yate-cookbook
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
