@@ -273,7 +273,7 @@ Usual candidates would be
 
 ## Concepts
 
-###Engine / Message Queue
+### Engine / Message Queue
 
 The core of Yate - the engine - is a message queue. Each module can subscribe to a type of message and either process or reject the message. In addition, Yate modules can also observe the message queue without actually handling messages (watch), which is similar to a [PubSub pattern](https://en.wikipedia.org/wiki/Publish/subscribe).
 
